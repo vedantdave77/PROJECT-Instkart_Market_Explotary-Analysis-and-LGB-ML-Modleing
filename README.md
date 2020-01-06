@@ -134,5 +134,5 @@ A Explotary Data Analysis of Instakart Market data of 3 Million data oreder of 2
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>Code (Colab File)</strong></p>
+<p><strong><a href="https://github.com/vedantdave77/PROJECT-Instkart_Market_Explotary-Analysis-and-LGB-ML-Modleing/blob/master/Instacart_Exploratory_Analysis_%26_Prediction_(LGB_ML_Algo_).ipynb">Code (Colab File)</a></strong></p>
 <!-- /wp:paragraph -->
